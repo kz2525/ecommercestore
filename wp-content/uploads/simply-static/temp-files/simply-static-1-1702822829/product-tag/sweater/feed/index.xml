@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sweater</title>
+	<atom:link href="https://kz2525.github.io/ecommercestore/product-tag/sweater/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kz2525.github.io/ecommercestore</link>
+	<description></description>
+	<lastBuildDate>Sat, 16 Dec 2023 16:46:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Classic Sweater And Scarf</title>
+		<link>https://kz2525.github.io/ecommercestore/product/classic-sweater-and-scarf/</link>
+					<comments>https://kz2525.github.io/ecommercestore/product/classic-sweater-and-scarf/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 25 Nov 2023 14:31:12 +0000</pubDate>
+				<guid isPermaLink="false">http://192.168.100.158/?post_type=product&#038;p=398</guid>
+
+					<description><![CDATA[Product Details Sweater Dyed woolen drop shoulder sweater with side pockets and buttons Fabric: Wool Scarf  Ribbed woolen scarf with beaded tassels...]]></description>
+										<content:encoded><![CDATA[<ul>
+<li><strong>Product Details</strong></li>
+<li><strong>Sweater</strong></li>
+<li>Dyed woolen drop shoulder sweater with side pockets and buttons</li>
+<li>Fabric: Wool</li>
+<li><strong>Scarf </strong></li>
+<li>Ribbed woolen scarf with beaded tassels</li>
+<li><strong>Fabric:</strong> Wool</li>
+<li><strong>Other Details</strong></li>
+<li><strong>Weight:</strong> 820 g</li>
+<li>Model is wearing size &#8220;S&#8221;</li>
+</ul>
+<p class="cstm-variant-sku"><span class="sku-code-head">Code: </span><span class="cstm-variant-sku-code">I5766SU-EXS-BLK</span></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kz2525.github.io/ecommercestore/product/classic-sweater-and-scarf/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
